@@ -1,0 +1,15 @@
+<?php
+/**
+ * Theme Name: Meridian
+ * Description: A conversion-focused WordPress theme for SaaS, agencies, and startups. Features a custom landing page builder, testimonial system, pricing tables, and full Customizer integration.
+ * Author: Loic Hazoume
+ * Author URI: https://wxza.net
+ * Version: 1.0.0
+ * Requires PHP: 7.4
+ * License: GPL-2.0-or-later
+ * Text Domain: meridian
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // Exit if accessed directly.
+}
